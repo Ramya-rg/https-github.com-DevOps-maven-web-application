@@ -1,3 +1,4 @@
+#declarative script
 node
 {
 

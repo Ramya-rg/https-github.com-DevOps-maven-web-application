@@ -1,4 +1,4 @@
-#declarative script
+declarative script
 node
 {
 
